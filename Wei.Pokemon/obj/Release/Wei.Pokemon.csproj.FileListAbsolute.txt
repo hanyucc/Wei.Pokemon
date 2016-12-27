@@ -1,0 +1,15 @@
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\bin\Release\Wei.Pokemon.exe
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\bin\Release\Wei.Pokemon.pdb
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.csprojResolveAssemblyReference.cache
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Battle.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Help.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Main.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Player.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Properties.Resources.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Query.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Shop.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Skill.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.Type.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.csproj.GenerateResource.Cache
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.exe
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Release\Wei.Pokemon.pdb
