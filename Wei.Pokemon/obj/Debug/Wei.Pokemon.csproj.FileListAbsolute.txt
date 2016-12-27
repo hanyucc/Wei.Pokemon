@@ -1,0 +1,47 @@
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\ResolveAssemblyReference.cache
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Main.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Properties.Resources.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.csproj.GenerateResource.Cache
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\bin\Debug\Wei.Pokemon.exe
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\bin\Debug\Wei.Pokemon.pdb
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.exe
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.pdb
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Type.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Player.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Query.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Help.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Skill.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Shop.resources
+D:\CHY\C#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Battle.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.exe
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.pdb
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\bin\Debug\Wei.Pokemon.exe
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\bin\Debug\Wei.Pokemon.pdb
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Battle.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Help.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Main.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Player.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Properties.Resources.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Query.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Shop.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Skill.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Type.resources
+C:\Users\涵宇\Downloads\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.csproj.GenerateResource.Cache
+C:\Users\涵宇\Desktop\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.exe
+C:\Users\涵宇\Desktop\Wei.Pokemon 周三_陶吟翔 陈涵宇\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.pdb
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.exe
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.pdb
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\bin\Debug\Wei.Pokemon.exe
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\bin\Debug\Wei.Pokemon.pdb
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.csprojResolveAssemblyReference.cache
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Battle.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Help.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Main.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Player.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Properties.Resources.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Query.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Shop.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Skill.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.Type.resources
+D:\编程\c#\Wei.Pokemon\Wei.Pokemon\obj\Debug\Wei.Pokemon.csproj.GenerateResource.Cache
